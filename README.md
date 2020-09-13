@@ -1,4 +1,4 @@
-# Healthcare Program
+# 
 
   This application is a spring boot micro-service. 
   It holds a eureka registry which manages a micro-service called service.
